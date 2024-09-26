@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<link rel="stylesheet" type="text/css" href="regg.css">
+	<link rel="stylesheet" type="text/css" href="regg.css/">
 </head>
 <body>
 
