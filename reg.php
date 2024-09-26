@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<link rel="stylesheet" type="text/css" href="regg.css/">
+	<link rel="stylesheet" type="text/css" href="regg.css"/>
 </head>
 <body>
 
@@ -86,7 +86,7 @@
 				<td><b>Address<span class="required">*</span></b></td>
 				<td>
 				
-                <textarea name="address" cols="35" rows="3" />
+                <textarea name="address" cols="35" rows="3">
 				</textarea>
 			</td>
 			</tr>
